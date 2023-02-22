@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gateway-vertx
+  description: |
+    coolstore-demo gateway-vertx
+  annotations:
+    github.com/project-slug: christophe-f/gateway-vertx
+spec:
+  type: website
+  owner: janus-authors
+  lifecycle: experimental
